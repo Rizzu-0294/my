@@ -31,7 +31,7 @@ body {
 }
 .span-two {
   grid-column: span 2;
-  color: greenyellow;
+  color: black;
   background-color: antiquewhite;
 }
 .output {
